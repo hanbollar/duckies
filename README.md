@@ -4,7 +4,7 @@
 
 Focus was to demonstrate the use of an interesting shader within a scene-like environment.
 
-Used voronoi time-based mix for interactive water covering alongside 3D multi-octave noise specifically for the time-based vertex displacement.
+Used voronoi time-based mix for interactive water covering alongside 3D multi-octave noise specifically for the time-based vertex displacement and circular alpha blend to fit the pool shape.
 
 ### Description
 
