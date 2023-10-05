@@ -8,4 +8,4 @@ Used voronoi time-based mix for interactive water covering alongside multi-octav
 
 ### Description
 
-Welcome to Ducky's day off as he enjoys his time in the outdoor blow-up pool withhis other duck toys.
+Welcome to Ducky's day off as he enjoys his time in the outdoor blow-up pool with his other duck toys.
