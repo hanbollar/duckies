@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "dev": "npx vite",
+    "start": "webpack-dev-server --no-hot --live-reload",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "vite": "^4.4.10",
+    "file-loader": "^0.10.0",
+    "three": "^0.157.0",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.1.1",
+    "webpack-glsl-loader": "^1.0.1"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gl-matrix": "^3.3.0"
+  }
+}
