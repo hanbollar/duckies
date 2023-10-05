@@ -1,13 +1,15 @@
 {
   "scripts": {
     "dev": "npx vite",
-    "start": "webpack-dev-server --no-hot --live-reload",
-    "build": "webpack"
+    "build": "npx vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
-    "vite": "^4.4.10",
     "file-loader": "^0.10.0",
+    "gh-pages": "^6.0.0",
     "three": "^0.157.0",
+    "vite": "^4.4.11",
     "webpack": "^5.88.2",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.1.1",
